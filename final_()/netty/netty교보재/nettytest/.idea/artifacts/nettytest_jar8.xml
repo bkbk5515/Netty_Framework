@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nettytest:jar8">
+    <output-path>$PROJECT_DIR$/out/artifacts/nettytest_jar8</output-path>
+    <root id="archive" name="nettytest.jar">
+      <element id="module-output" name="nettytest" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/developreferences/netty-4.1.25.Final/jar/all-in-one/json-simple-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/developreferences/netty-4.1.25.Final/jar/all-in-one/netty-all-4.1.25.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/developreferences/netty-4.1.25.Final/jar/all-in-one/netty-all-4.1.25.Final-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
